@@ -7,3 +7,6 @@ This project runs on an Arduino Nano with eight LDR-based sensors distributed al
 Traffic is only permitted in one direction for each line so that the software is only triggered in the correct sequence—this reduces the chance of spurious triggering and "switch bounce."  Pins are now used for warning signals to road traffic — this is operating now after I designed some for 3D printing using a Resin printer.  Ironically, having spent time designing prototypical hoods for the traffic warning lights, I have had to remove the hoods to make it obvious that the lights are working because they were only viewable at the same height as the road, and most viewers are taller and don't see the lights flashing - i.e. the hoods worked too well!
 
 The version uploaded 3rd October 2024 is used on Maun Valley Junction layout where the station stopping sensors are not used, hence only 6 sensors are used.
+
+3D printing files are available at https://www.thingiverse.com/thing:6786859
+
